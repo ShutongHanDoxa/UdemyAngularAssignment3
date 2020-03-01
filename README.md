@@ -27,8 +27,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Assignment 3: practicing Directives
-Add a button which says "Display Details
-Add a paragraph with any content of your choice
-Toggle the displaying of that paragraph with the Display Details button
-Log all button clicks (timestamp and index) in an array and output that array below the secret paragraphs
-Starting at the 5th log item, give all future log items a blue background (via ngStyle) and white color(via ngClass)
+1. Add a button which says "Display Details
+2. Add a paragraph with any content of your choice
+3. Toggle the displaying of that paragraph with the Display Details button
+4. Log all button clicks (timestamp and index) in an array and output that array below the secret paragraphs
+5. Starting at the 5th log item, give all future log items a blue background (via ngStyle) and white color(via ngClass)
